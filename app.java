@@ -18,3 +18,4 @@ public class Variables {
         System.out.println("Age is: " + age);
     }
 }
+new code by dev-1 without pull the code

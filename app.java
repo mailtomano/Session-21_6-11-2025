@@ -4,3 +4,17 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
+
+
+//dev-2 pushed from local
+public class Variables {
+    public static void main(String[] args) {
+        int age = 25;              // Whole numbers
+        double price = 19.99;      // Decimals
+        char grade = 'A';          // Single character
+        boolean isJavaFun = true;  // True/False
+        String message = "Learn!"; // Sequence of characters
+        
+        System.out.println("Age is: " + age);
+    }
+}
